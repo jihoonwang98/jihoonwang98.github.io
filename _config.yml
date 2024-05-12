@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "왕지훈 Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "왕지훈"
+description              : "내 블로그임"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "mojo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "성균관대 소프트 19학번 왕지훈"
+  location         : "경기도 수원시 장안구 율전동"
+  email            : "jihoonwang98@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
